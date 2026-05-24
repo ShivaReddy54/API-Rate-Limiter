@@ -146,10 +146,8 @@ Edit `TOTAL_REQUESTS` and `URL` in that file to change load shape.
 
 ## Tech stack
 
-- [Express](https://expressjs.com/) 5
-- [redis](https://github.com/redis/node-redis) 5
+- [Express](https://expressjs.com/) 
+- [redis](https://github.com/redis/node-redis) 
 - [Jest](https://jestjs.io/) + [Supertest](https://github.com/ladjs/supertest) for tests
 
-## License
 
-ISC
